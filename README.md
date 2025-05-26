@@ -11,9 +11,9 @@ English Tutoring
 
 ## 🧾 자격 및 경력
 - 광주과학기술원 박사과정 졸업예정
-- 미국 미네소타 주립대한 Saint Cloud State University 교환학생 경험
+- 미국 미네소타 주립대 Saint Cloud State University 교환학생 경험
 - 광주 하계 유니버시아드 영어 통역 자원봉사
-- 해외 ㅎ
+- MICCAI 등 국제 학회 논문 투고 경험 보유.
 - 영어 과외 5년 이상 진행
 - 수능 4등급 → 2등급 향상 사례 다수
 
