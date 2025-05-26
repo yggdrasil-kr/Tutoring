@@ -1,5 +1,5 @@
 # 광주과학기술원 박사과정 영어 과외
-English Tutoring
+English Tutoring by a Ph.D. Student at GIST (Gwangju Institute of Science and Technology)
 
 
 # ✨ 영어 과외 소개 – 수능 전문 튜터링 ✨
